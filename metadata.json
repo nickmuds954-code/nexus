@@ -1,0 +1,9 @@
+{
+  "name": "Nexus Trading Platform",
+  "description": "Professional multi-asset trading platform featuring G Coin mining, P2P marketplace, and real-time market simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
